@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import BgImg from '../img/cute.jpg';
 
 export const StyledContainer = styled.div`
   max-width: 100%;
@@ -48,7 +49,7 @@ export const StyledButton = styled.button`
 `;
 
 export const StyledPage = styled.div`
-  background: url('/cute.jpg') center/cover no-repeat fixed;
+  background: url(${BgImg}) center/cover no-repeat fixed;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
