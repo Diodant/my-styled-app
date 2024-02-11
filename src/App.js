@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import { StyledContainer, StyledButton, StyledPage, StyledButtonContainer, StyledTitle, StyledText, StyledImg, StyledImgContainer } from './components/StyledComponent';
 import Image from './img/images.png';
 import YesPage from './components/YES';
