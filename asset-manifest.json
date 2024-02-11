@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/my-styled-app/static/css/main.794295cf.css",
-    "main.js": "/my-styled-app/static/js/main.f7ae7856.js",
+    "main.js": "/my-styled-app/static/js/main.6a5c95c7.js",
     "static/js/787.46e7f716.chunk.js": "/my-styled-app/static/js/787.46e7f716.chunk.js",
+    "static/media/cute.jpg": "/my-styled-app/static/media/cute.11d4e5665db2be2f9828.jpg",
     "static/media/happy-cat.gif": "/my-styled-app/static/media/happy-cat.68c0f27fcaae2bcddbbd.gif",
     "static/media/Caveat-VariableFont_wght.ttf": "/my-styled-app/static/media/Caveat-VariableFont_wght.31f0a02d84d42627c894.ttf",
     "static/media/happy-cat.mp3": "/my-styled-app/static/media/happy-cat.ab9bb80f46f78609570a.mp3",
@@ -10,11 +11,11 @@
     "static/media/sad.jpg": "/my-styled-app/static/media/sad.0270892632e4a175c495.jpg",
     "index.html": "/my-styled-app/index.html",
     "main.794295cf.css.map": "/my-styled-app/static/css/main.794295cf.css.map",
-    "main.f7ae7856.js.map": "/my-styled-app/static/js/main.f7ae7856.js.map",
+    "main.6a5c95c7.js.map": "/my-styled-app/static/js/main.6a5c95c7.js.map",
     "787.46e7f716.chunk.js.map": "/my-styled-app/static/js/787.46e7f716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794295cf.css",
-    "static/js/main.f7ae7856.js"
+    "static/js/main.6a5c95c7.js"
   ]
 }
