@@ -1,21 +1,39 @@
 {
   "files": {
     "main.css": "/my-styled-app/static/css/main.794295cf.css",
-    "main.js": "/my-styled-app/static/js/main.6a5c95c7.js",
+    "main.js": "/my-styled-app/static/js/main.291f2f86.js",
     "static/js/787.46e7f716.chunk.js": "/my-styled-app/static/js/787.46e7f716.chunk.js",
     "static/media/cute.jpg": "/my-styled-app/static/media/cute.11d4e5665db2be2f9828.jpg",
     "static/media/happy-cat.gif": "/my-styled-app/static/media/happy-cat.68c0f27fcaae2bcddbbd.gif",
+    "static/media/rolls.png": "/my-styled-app/static/media/rolls.4f35da17651012a040ee.png",
+    "static/media/roud.jpg": "/my-styled-app/static/media/roud.1d30068ac92be0caabaa.jpg",
+    "static/media/asian.jpg": "/my-styled-app/static/media/asian.20282055de7da066db88.jpg",
     "static/media/Caveat-VariableFont_wght.ttf": "/my-styled-app/static/media/Caveat-VariableFont_wght.31f0a02d84d42627c894.ttf",
+    "static/media/kinder.jpg": "/my-styled-app/static/media/kinder.75b02ec2b8da32efcd6c.jpg",
+    "static/media/kino.jpg": "/my-styled-app/static/media/kino.41ec09c3fab378290870.jpg",
+    "static/media/restrant.jpg": "/my-styled-app/static/media/restrant.e590fa67dcb884d52b3d.jpg",
+    "static/media/italian.jpg": "/my-styled-app/static/media/italian.712351d2c26d8dc21b5c.jpg",
+    "static/media/milka.jpeg": "/my-styled-app/static/media/milka.c27bec2376b8d67c126b.jpeg",
     "static/media/happy-cat.mp3": "/my-styled-app/static/media/happy-cat.ab9bb80f46f78609570a.mp3",
+    "static/media/shop.jpg": "/my-styled-app/static/media/shop.0a8bb254216026c524b4.jpg",
     "static/media/huh-cat.mp3": "/my-styled-app/static/media/huh-cat.680f698b6d547d9350c8.mp3",
+    "static/media/park.jpg": "/my-styled-app/static/media/park.20de017606ad8f3e61c0.jpg",
+    "static/media/pizza.jpg": "/my-styled-app/static/media/pizza.66f7c5b73cbeaa0053b1.jpg",
+    "static/media/macaruns.jpg": "/my-styled-app/static/media/macaruns.2b183cd9e2e5643b833e.jpg",
+    "static/media/me.jpg": "/my-styled-app/static/media/me.a2ee3e0faccccf080897.jpg",
+    "static/media/home.jpg": "/my-styled-app/static/media/home.ba6950b5aac394441b73.jpg",
     "static/media/sad.jpg": "/my-styled-app/static/media/sad.0270892632e4a175c495.jpg",
+    "static/media/burger.jpg": "/my-styled-app/static/media/burger.b4e315b72ec2fef2d6b2.jpg",
+    "static/media/lux delice.avif": "/my-styled-app/static/media/lux delice.8ba5c6e5a45eb2367fc2.avif",
+    "static/media/my.avif": "/my-styled-app/static/media/my.905534b174fa84b75d19.avif",
+    "static/media/ice-cream.avif": "/my-styled-app/static/media/ice-cream.7ab17fcb8be675e0ae31.avif",
     "index.html": "/my-styled-app/index.html",
     "main.794295cf.css.map": "/my-styled-app/static/css/main.794295cf.css.map",
-    "main.6a5c95c7.js.map": "/my-styled-app/static/js/main.6a5c95c7.js.map",
+    "main.291f2f86.js.map": "/my-styled-app/static/js/main.291f2f86.js.map",
     "787.46e7f716.chunk.js.map": "/my-styled-app/static/js/787.46e7f716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794295cf.css",
-    "static/js/main.6a5c95c7.js"
+    "static/js/main.291f2f86.js"
   ]
 }
