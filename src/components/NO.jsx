@@ -48,7 +48,7 @@ const NoPage = () => {
           >
             Нет:(
           </StyledButton>
-          <Link to="/yes">
+          <Link to="/go">
             <StyledButton>Да!!</StyledButton>
           </Link>
           <audio ref={audioRef}>

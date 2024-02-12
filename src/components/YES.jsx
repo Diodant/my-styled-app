@@ -23,13 +23,12 @@ const YesPage = () => {
       document.removeEventListener('click', playAudio);
     };
 
-    // Включите воспроизведение при первой возможности
     document.addEventListener('click', playAudio);
 
     return () => {
       document.removeEventListener('click', playAudio);
     };
-  }, []); // Пустой массив зависимостей означает, что этот эффект выполняется только после первичной отрисовки
+  }, []);
 
   return (
     <StyledPage>
@@ -37,7 +36,7 @@ const YesPage = () => {
         <StyledImgContainer>
           <StyledImg src={happyCatGif} alt="Happy Cat"></StyledImg>
         </StyledImgContainer>
-        <StyledTitle>УРАААА!!! Так и знал что ты выберешь ДА:)</StyledTitle>
+        <StyledTitle>УРАААА!!! Так и знал что ты согласишься:)</StyledTitle>
         <StyledButtonContainer>
           <audio ref={audioRef}>
             <source src={backgroundSound} type="audio/mpeg" />

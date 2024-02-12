@@ -42,9 +42,11 @@ export const StyledButton = styled.button`
   border-radius: 16px;
   border: none;
   cursor: pointer;
+  transition: transform 0.3s ease-in-out;
 
   &:hover {
     background-color: #f8bfca;
+    transform: scale(1.1);
   }
 `;
 
