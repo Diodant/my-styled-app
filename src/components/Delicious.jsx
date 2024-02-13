@@ -41,7 +41,7 @@ const DeliciousPage = () => {
     return (
       <StyledPage>
         <StyledContainer>
-          <StyledTitle>Чем бы ты хотела из следенького?</StyledTitle>
+          <StyledTitle>Чем бы ты хотела из сладенького?</StyledTitle>
           <StyledBlockJourney>
             <StyledCard>
               <StyledPhoto
