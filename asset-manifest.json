@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-styled-app/static/css/main.794295cf.css",
-    "main.js": "/my-styled-app/static/js/main.291f2f86.js",
+    "main.js": "/my-styled-app/static/js/main.e000dca6.js",
     "static/js/787.46e7f716.chunk.js": "/my-styled-app/static/js/787.46e7f716.chunk.js",
     "static/media/cute.jpg": "/my-styled-app/static/media/cute.11d4e5665db2be2f9828.jpg",
     "static/media/happy-cat.gif": "/my-styled-app/static/media/happy-cat.68c0f27fcaae2bcddbbd.gif",
@@ -29,11 +29,11 @@
     "static/media/ice-cream.avif": "/my-styled-app/static/media/ice-cream.7ab17fcb8be675e0ae31.avif",
     "index.html": "/my-styled-app/index.html",
     "main.794295cf.css.map": "/my-styled-app/static/css/main.794295cf.css.map",
-    "main.291f2f86.js.map": "/my-styled-app/static/js/main.291f2f86.js.map",
+    "main.e000dca6.js.map": "/my-styled-app/static/js/main.e000dca6.js.map",
     "787.46e7f716.chunk.js.map": "/my-styled-app/static/js/787.46e7f716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794295cf.css",
-    "static/js/main.291f2f86.js"
+    "static/js/main.e000dca6.js"
   ]
 }
